@@ -8,6 +8,7 @@
 
 ## Features
 * Print $PATH environment variable in human-readable way.
+* Find and copy the path.
 
 ## Prerequisites
 - Make sure you have Node.js `>= v8.12` installed.
@@ -33,6 +34,7 @@ Commands:
 ```
 
 ## Why I made this
+Coming soon...
 
 ## license
 MIT © [Sureshraj](https://github.com/m-sureshraj)
