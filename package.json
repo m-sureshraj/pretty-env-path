@@ -1,0 +1,55 @@
+{
+  "name": "pretty-env-path",
+  "version": "0.0.1",
+  "description": "Show $PATH environment variable in a human-readable way",
+  "author": "Sureshraj <m.s.suresh100@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-sureshraj/pretty-env-path.git"
+  },
+  "bin": {
+    "pp": "bin/pretty-env-path.js"
+  },
+  "engines": {
+    "node": ">=8.12"
+  },
+  "files": [
+    "bin",
+    "libs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint '.*.js' '**/*.js'"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "human-readable",
+    "env",
+    "$PATH"
+  ],
+  "dependencies": {
+    "clipboardy": "^2.1.0",
+    "kleur": "^3.0.3",
+    "prompts": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "husky": "^3.0.4",
+    "lint-staged": "^9.2.4",
+    "prettier": "^1.18.2"
+  }
+}
