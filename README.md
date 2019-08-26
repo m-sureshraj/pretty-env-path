@@ -1,9 +1,10 @@
 # pretty-env-path 🦋
-> Show $PATH environment variable in a human-readable way
 
 ![npm](https://img.shields.io/npm/v/pretty-env-path)
 
-![pretty-env-path in action](https://raw.githubusercontent.com/m-sureshraj/pretty-env-path/HEAD/media/pretty-env-path-in-action.gif "pretty-env-path in action")
+> Show $PATH environment variable in a human-readable way
+
+![pretty-env-path in action](https://raw.githubusercontent.com/m-sureshraj/pretty-env-path/HEAD/media/pp-in-action.gif.gif "pretty-env-path in action")
 
 ## Features
 * Print $PATH environment variable in human-readable way.
