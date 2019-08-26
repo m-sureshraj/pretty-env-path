@@ -1,4 +1,4 @@
-# pretty-env-path 🧞
+# pretty-env-path 🦋
 > Show $PATH environment variable in a human-readable way
 
 ![pretty-env-path in action](https://raw.githubusercontent.com/m-sureshraj/pretty-env-path/HEAD/media/pretty-env-path-in-action.gif "pretty-env-path in action")
