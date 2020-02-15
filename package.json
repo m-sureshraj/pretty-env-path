@@ -1,6 +1,6 @@
 {
   "name": "pretty-env-path",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Show $PATH environment variable in a human-readable way",
   "author": "Sureshraj <m.s.suresh100@gmail.com>",
   "license": "MIT",
