@@ -33,8 +33,5 @@ Commands:
   i, interactive 	 run the command in interactive mode
 ```
 
-## Why I made this
-Coming soon...
-
 ## license
 MIT © [Sureshraj](https://github.com/m-sureshraj)
