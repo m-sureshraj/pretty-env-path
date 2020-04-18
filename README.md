@@ -1,4 +1,4 @@
-# pretty-env-path 🦋
+# pretty-env-path
 
 ![npm](https://img.shields.io/npm/v/pretty-env-path)
 
